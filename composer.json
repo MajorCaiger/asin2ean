@@ -1,15 +1,9 @@
 {
-    "name": "zendframework/skeleton-application",
-    "description": "Skeleton Application for ZF2",
-    "license": "BSD-3-Clause",
-    "keywords": [
-        "framework",
-        "zf2"
-    ],
-    "homepage": "http://framework.zend.com/",
+    "name": "major-caiger/asin2ean",
+    "description": "ASIN to EAN converter",
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.5",
         "zendframework/zendframework": "~2.4",
-        "doctrine/doctrine-orm-module": "~0.1"
+        "aws/aws-sdk-php": "^3.8"
     }
 }
